@@ -1,2 +1,2 @@
-#!/bin/bash
-printf "%.2f" $NUM | sort
+#!/bin/bas
+printf "%x\n" $DECIMA
